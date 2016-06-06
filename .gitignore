@@ -242,3 +242,9 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+pmd2_eventTableLister.VC.db
+Dumped/overlay_0011.txt
+Dumped/arm9.txt
+arm9.bin
+overlay_0011.bin
+pmd2_eventTableLister.VC.db
